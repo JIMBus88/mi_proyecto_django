@@ -20,30 +20,30 @@ Instalación y ejecución
 
 1. Clona este repositorio:
 
-git clone https://github.com/tu-usuario/mi_proyecto_django.git
+    git clone https://github.com/tu-usuario/mi_proyecto_django.git
 
-cd mi_proyecto_django
+    cd mi_proyecto_django
 
 2. Crea un entorno virtual y actívalo:
 
-python -m venv env
+    python -m venv env
 
-- En windows:
-  env\Scripts\activate
+    - En windows:
+      env\Scripts\activate
   
-- En Mac/Linux:
-  source env/bin/activate
+    - En Mac/Linux:
+      source env/bin/activate
   
 3. Instala Django:
 
-pip install Django
+    pip install Django
 
 4. Ejecuta el servidor de desarrollo:
 
-python manage.py runserver
+    python manage.py runserver
 
 5. Abre tu navegador y visita:
 
-http://127.0.0.1:8000/
+    http://127.0.0.1:8000/
 
 Ahí podrás ver y probar el formulario, se rellena y en el botón de generar PDF, te abre el archivo PDF con el texto escrito.

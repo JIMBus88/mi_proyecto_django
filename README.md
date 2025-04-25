@@ -21,6 +21,7 @@ Instalación y ejecución
 1. Clona este repositorio:
 
 git clone https://github.com/tu-usuario/mi_proyecto_django.git
+
 cd mi_proyecto_django
 
 2. Crea un entorno virtual y actívalo:

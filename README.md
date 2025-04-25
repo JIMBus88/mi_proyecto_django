@@ -1,6 +1,6 @@
 Proyecto Django - Formulario Web
 
-Este es un proyecto básico hecho con Django que permite al usuario completar un formulario con su nombre y apellido. Es ideal como introducción al desarrollo de aplicaciones web con Django.
+Este es un proyecto básico hecho con Django que permite al usuario completar un formulario con su nombre y apellido.
 
 Características
 

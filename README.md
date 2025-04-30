@@ -20,7 +20,7 @@ Instalación y ejecución
 
 1. Clona este repositorio:
 
-    git clone https://github.com/tu-usuario/mi_proyecto_django.git
+    git clone https://github.com/JIMBus88/mi_proyecto_django.git
 
     cd mi_proyecto_django
 
